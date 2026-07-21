@@ -10,11 +10,11 @@
     },
     {
       "executable": "caixa.exe",
-      "files": ["AlgumaDllDoCaixa.dll"]
+      "files": ["WebView2Loader.dll"]
     },
     {
       "executable": "BALCAO.exe",
-      "files": ["AlgumaDllDoBalcao.dll"]
+      "files": ["WebView2Loader.dll"]
     }
   ]
 }
