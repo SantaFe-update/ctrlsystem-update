@@ -7,10 +7,7 @@
     {
       "executable": "CtrlSystemF.exe",
       "files": [
-        "WebView2Loader.dll",
-        "ICO00382.ICO",
-        "ICO00381.ICO",
-        "ICO00380.ICO"
+        "WebView2Loader.dll","SantaFeXXXX.dll"
       ]
     },
     {
