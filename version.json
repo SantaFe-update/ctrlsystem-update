@@ -7,7 +7,7 @@
     {
       "executable": "CtrlSystemF.exe",
       "files": [
-        "WebView2Loader.dll","SantaFeXXXX.dll"
+        "WebView2Loader.dll"
       ]
     },
     {
