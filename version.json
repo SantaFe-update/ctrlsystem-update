@@ -6,7 +6,7 @@
   "additional_files": [
     {
       "executable": "CtrlSystemF.exe",
-      "files": ["WebView2Loader.dll"]
+      "files": ["WebView2Loader.dll","SantaFeXXXX.dll"]
     },
     {
       "executable": "caixa.exe",
