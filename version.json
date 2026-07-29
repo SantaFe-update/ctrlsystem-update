@@ -6,15 +6,24 @@
   "additional_files": [
     {
       "executable": "CtrlSystemF.exe",
-      "files": ["WebView2Loader.dll"]
+      "files": [
+        "WebView2Loader.dll",
+        "ICO00382.ICO",
+        "ICO00381.ICO",
+        "ICO00380.ICO"
+      ]
     },
     {
       "executable": "caixa.exe",
-      "files": ["WebView2Loader.dll"]
+      "files": [
+        "WebView2Loader.dll"
+      ]
     },
     {
       "executable": "BALCAO.exe",
-      "files": ["WebView2Loader.dll"]
+      "files": [
+        "WebView2Loader.dll"
+      ]
     }
   ]
 }
